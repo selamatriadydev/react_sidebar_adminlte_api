@@ -10,6 +10,18 @@
 
 Klik link [front end](https://github.com/selamatriadydev/react_sidebar_adminlte)
 
+## Installation
+
+   - Run git clone https://github.com/selamatriadydev/react_sidebar_adminlte_api
+    -cd react_sidebar_adminlte_api
+    -Setup database
+    -Run cp .env.example .env
+    -Run php artisan key:generate
+    -Provide db name, username and password in .env
+    -Run php artisan migrate
+    -Run php artisan db:seed
+
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
