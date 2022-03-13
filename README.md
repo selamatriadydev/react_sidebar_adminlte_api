@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 ## front end react menu from api
-klik [front end](https://github.com/selamatriadydev/react_sidebar_adminlte)
+klik link [front end](https://github.com/selamatriadydev/react_sidebar_adminlte)
 
 ## License
 
