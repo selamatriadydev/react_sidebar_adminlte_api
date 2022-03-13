@@ -7,19 +7,17 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 ## front end react menu from api
-
-Klik link [front end](https://github.com/selamatriadydev/react_sidebar_adminlte)
+- Klik link [front end](https://github.com/selamatriadydev/react_sidebar_adminlte)
 
 ## Installation
-
-   - Run git clone https://github.com/selamatriadydev/react_sidebar_adminlte_api
-    -cd react_sidebar_adminlte_api
-    -Setup database
-    -Run cp .env.example .env
-    -Run php artisan key:generate
-    -Provide db name, username and password in .env
-    -Run php artisan migrate
-    -Run php artisan db:seed
+- Run git clone https://github.com/selamatriadydev/react_sidebar_adminlte_api
+- cd react_sidebar_adminlte_api
+- Setup database
+- Run cp .env.example .env
+- Run php artisan key:generate
+- Provide db name, username and password in .env
+- Run php artisan migrate
+- Run php artisan db:seed
 
 
 ## License
