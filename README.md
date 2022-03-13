@@ -6,8 +6,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
-##front end react menu from api
-klik link [front end](https://github.com/selamatriadydev/react_sidebar_adminlte)
+## front end react menu from api
+
+Klik link [front end](https://github.com/selamatriadydev/react_sidebar_adminlte)
 
 ## License
 
